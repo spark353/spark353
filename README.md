@@ -12,7 +12,8 @@
 <br/>
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,html,css,javascript,dart,java,react,nodejs,bootstrap,electron,phpstorm,postman,figma,ai,ps,mysql" />
+  <img src="https://skillicons.dev/icons?i=github,html,css,javascript,dart,java,react,nodejs" /></br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,electron,phpstorm,postman,figma,ai,ps,mysql" />
 </a>
 </div>
 
