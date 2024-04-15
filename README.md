@@ -8,7 +8,7 @@
 
 💡 On my GitHub, you'll find some projects showcasing my skills and interests like a websites and mobile applications.
 
-<h2 align="center">Programming Languages</h2>
+<h2 align="center">🛠️ Programming Languages 🛠️</h2>
 <br/>
 <div align="center">
 <a href="https://skillicons.dev">
