@@ -9,13 +9,16 @@
 💡 On my GitHub, you'll find some projects showcasing my skills and interests like a websites and mobile applications.
 
 <h2 align="center">🛠️ Programming Languages 🛠️</h2>
-<br/>
+<br>
 <div align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=github,html,css,javascript,dart,java,react,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,electron,phpstorm,postman,figma,ai,ps,mysql" />
 </a>
 </div>
+<br>
+
+<h2 align="center">🛠️ Stats 🛠️</h2>
 <br>
 <div>
     <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spark353&hide=HTML&langs_count=&&layout=compact&theme=react&border_radius=10&size_weight=0.5&exclude_repo=github-readme-stats" />
