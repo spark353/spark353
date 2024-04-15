@@ -1,15 +1,15 @@
 # spark353
-
-👋 Hello there! I'm Cristiano, a software enthusiast passionate about building innovative solutions and exploring emerging technologies.
-
-🚀 I using new technologies like JavaScript (Node.js, React), Dart (Flutter), and Html and Css(Bootstrap).
-
-🌱 I'm continuously learning and exploring new technologies, with a keen interest in artificial intelligence and cybersecurity.
-
-💡 On my GitHub, you'll find some projects showcasing my skills and interests like a websites and mobile applications.
-
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
+<p align="left">👋 Hello there! I'm Cristiano, a software enthusiast passionate about building innovative solutions and exploring emerging technologies.</p>
+
+<p align="left">🚀 I using new technologies like JavaScript (Node.js, React), Dart (Flutter), and Html and Css(Bootstrap).</p>
+
+<p align="left">🌱 I'm continuously learning and exploring new technologies, with a keen interest in artificial intelligence and cybersecurity.</p>
+
+<p align="left">💡 On my GitHub, you'll find some projects showcasing my skills and interests like a websites and mobile applications.</p>
+<br>
+<br>
 <h2 align="center">🛠️ Programming Languages 🛠️</h2>
 <br>
 <div align="center">
@@ -19,7 +19,6 @@
 </a>
 </div>
 <br>
-
 <h2 align="center">🛠️ Stats 🛠️</h2>
 <br>
 <div>
