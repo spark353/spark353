@@ -3,7 +3,7 @@
 
 <p align="left">👋 Hello there! I'm Cristiano, a software enthusiast passionate about building innovative solutions and exploring emerging technologies.</p>
 
-<p align="left">🚀 I using new technologies like JavaScript (Node.js, React), Dart (Flutter), and Html and Css(Bootstrap).</p>
+<p align="left">🚀 I'm using new technologies like JavaScript (Node.js, React), Dart (Flutter), and Html and Css(Bootstrap).</p>
 
 <p align="left">🌱 I'm continuously learning and exploring new technologies, with a keen interest in artificial intelligence and cybersecurity.</p>
 
@@ -19,7 +19,7 @@
 </a>
 </div>
 <br>
-<h2 align="center">🛠️ Stats 🛠️</h2>
+<h2 align="center">🌟  Stats 🌟 </h2>
 <br>
 <div>
       <img  width="390" src="https://github-readme-stats.vercel.app/api?username=spark353&count_private=true&show_icons=true&theme=react&border_radius=10"/>
