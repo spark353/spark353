@@ -8,8 +8,11 @@
 
 💡 On my GitHub, you'll find some projects showcasing my skills and interests like a websites and mobile applications.
 
-<h2 align="center">Programming Languages
+<h2 align="center">Programming Languages</h2>
+<br/>
+<div align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=github,html,css,javascript,dart,java,react,nodejs,bootstrap,electron,phpstorm,postman,figma,ai,ps,mysql" />
 </a>
-</h2>
+</div>
+
