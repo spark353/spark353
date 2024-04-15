@@ -10,5 +10,5 @@
 
 <h2 align="center">Programming Languages</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,html,css,javascript,dart,java,react,nodejs,bootstrap,phpstorm,postman,figma " />
+  <img src="https://skillicons.dev/icons?i=github,html,css,javascript,dart,java,react,nodejs,bootstrap,electron,phpstorm,postman,figma,ai,ps,mysql" />
 </a>
