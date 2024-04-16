@@ -20,11 +20,4 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,electron,phpstorm,postman,figma,ai,ps,mysql" />
 </a>
 </div>
-<br>
-<h2 align="center">🌟  Stats 🌟 </h2>
-<br>
-<div>
-      <img  width="390" src="https://github-readme-stats.vercel.app/api?username=spark353&count_private=true&show_icons=true&theme=react&border_radius=10"/>
-    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spark353&hide=HTML&langs_count=&&layout=compact&theme=react&border_radius=10&size_weight=0.5&exclude_repo=github-readme-stats" />
 
-</div>
