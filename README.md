@@ -1,5 +1,7 @@
+
+<img src="https://github.com/spark353/spark353/assets/166623238/6b5a99aa-2c26-4a9d-bfbf-c09c0a3e5802"/>
+
 # spark353
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 <p align="left">👋 Hello there! I'm Cristiano, a software enthusiast passionate about building innovative solutions and exploring emerging technologies.</p>
 
